@@ -11,3 +11,6 @@ Meu nome é Wellington Andrade
 wellingtonand1514@gmail.com
 
 @wellingtonandrade
+
+![image](https://github.com/user-attachments/assets/916d636a-cbef-430c-a62b-e961819da4d0)
+
