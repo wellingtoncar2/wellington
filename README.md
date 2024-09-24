@@ -11,4 +11,10 @@ Meu nome é Wellington Andrade
 wellingtonand1514@gmail.com
 
 @wellingtonandrade
-//media.tenor.com/1dFa0WW1umkAAAAi/hi-hey.gif
+
+![](https://media.tenor.com/1dFa0WW1umkAAAAi/hi-hey.gif)
+
+ 
+ 
+ 
+ 
